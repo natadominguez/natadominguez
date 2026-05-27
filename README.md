@@ -37,7 +37,7 @@ Me apasiona construir soluciones eficientes, funcionales y visualmente atractiva
 ### 📫 Contacto & Redes
 ¡Hablemos de código, datos o astronomía!
 
-- **LinkedIn:** [(https://www.linkedin.com/in/natanael-dominguez-04a28b3b/)]
+- **LinkedIn:** [(https://www.linkedin.com/in/nata-dominguez/)]
 - **Web:** [natanaeldominguez.netlify.app](https://natanael-dev.netlify.app/)
 
 ---
